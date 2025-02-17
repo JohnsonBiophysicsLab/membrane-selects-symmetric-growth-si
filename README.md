@@ -3,7 +3,7 @@
 This repository contains the supporting source code for graphing, analytical, and numerical calculations related to the continuum membrane model by Dr. Margaret E Johnson lab, JHU.
 
 ## Dependencies
-The following dependencies are required to run the code in this repository. The specified versions are provided for reference and are not strictly required; however, if issues arise, please ensure that your dependencies resolve to the same versions.
+Most scripts (`.ipynb`) are written in python3. The following dependencies are required to run the code in this repository. The specified versions are provided for reference and are not strictly required; however, if issues arise, please ensure that your dependencies resolve to the same versions.
 
 - Python 3.9.7
 - PyVista 0.38.3
@@ -16,6 +16,8 @@ To set up the environment, use the provided `environment.yml` file:
 conda env create -f environment.yml
 conda activate my_env
 ```
+
+Note that some of the scripts with `.nb` extension are Mathematica scripts. The scripts are written and run with Wolfram `Mathematica 14.0.0.0` on `Mac OS X ARM (64-bit)`.
 
 ## Related Software
 ### NERDSS
