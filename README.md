@@ -3,7 +3,7 @@
 This repository contains the supporting source code for graphing, analytical, and numerical calculations related to the continuum membrane model by Dr. Margaret E Johnson lab, JHU.
 
 ## Dependencies
-Most scripts (`.ipynb`) are written in python3 and the python environment is described below. Note that some of the scripts with `.nb` extension are Mathematica scripts. The scripts are written and run with Wolfram `Mathematica 14.0.0.0` on `Mac OS X ARM (64-bit)`.
+Most scripts (`.ipynb`) are written in python3 and the python environment is described below. Note that some of the scripts with `.nb` extension are Mathematica scripts and those scripts are written and run with Wolfram `Mathematica 14.0.0.0` on `Mac OS X ARM (64-bit)`.
 
  The following dependencies are required to run the python codes in this repository. The specified versions are provided for reference and are not strictly required; however, if issues arise, please ensure that your dependencies resolve to the same versions.
 
