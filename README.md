@@ -11,6 +11,8 @@ Most scripts (`.ipynb`) are written in python3 and the python environment is des
 - PyVista 0.38.3
 - Matplotlib 3.7.0
 - Pandas 1.3.4
+- Scipy 1.13.1
+- Seaborn 0.12.1
 
 To set up the environment, use the provided `environment.yml` file:
 
