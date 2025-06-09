@@ -72,17 +72,10 @@ This dataset is generated using the **NERDSS - Continuum Membrane & Dynamics too
        \[ E_B = \int_S \frac{1}{2}\kappa (2H-C_0)^2 dS \]
      - **Area constraint energy:**
        \[ E_S = \frac{1}{2} \mu_S \frac{(S-S_0)^2}{S_0} \]
-     - **Volume constraint energy:**
-       \[ E_V = \frac{1}{2} \mu_V \frac{(V-V_0)^2}{V_0} \]
      
    where \( \kappa \) is the membrane bending constant, \( H \) is the mean curvature, and \( C_0 \) is the spontaneous curvature.
 
-3. **Membrane Brownian Dynamics Simulation:**
-   - The **moving membrane surface** is simulated using a **displacement equation**:
-     \[ \Delta X = -\frac{D\Delta t}{k_b T} \nabla E + \sqrt{2D\Delta t} (N(0,1)) \]
-   - The displacement occurs on the **limit surface**, not the control mesh.
-
-4. **Boundary Conditions:**
+3. **Boundary Conditions:**
    - **Periodic:** Three rings of ghost vertices mimic opposite side movement.
 
 ## Related GitHub Issue (Reason for Rerun)
