@@ -44,8 +44,6 @@ This dataset is generated using the **NERDSS - Continuum Membrane & Dynamics too
        \[ E_B = \int_S \frac{1}{2}\kappa (2H-C_0)^2 dS \]
      - **Area constraint energy:**
        \[ E_S = \frac{1}{2} \mu_S \frac{(S-S_0)^2}{S_0} \]
-     - **Volume constraint energy:**
-       \[ E_V = \frac{1}{2} \mu_V \frac{(V-V_0)^2}{V_0} \]
      
    where \( \kappa \) is the membrane bending constant, \( H \) is the mean curvature, and \( C_0 \) is the spontaneous curvature.
 
