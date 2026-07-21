@@ -1,0 +1,9 @@
+Condition,Ngags,MeanAbsCurvatureCapPerNm,SEPerNm,CapMaskMode,CanonicalFrames
+k = 250,203,0.005569606691029731,1.5499831038261022e-05,gsd_centered_exact_attached_nodes,500
+k = 250,252,0.006026079258698416,2.1202492473719842e-05,gsd_centered_exact_attached_nodes,500
+k = 250,408,0.005696727025163897,1.2980248420753895e-05,gsd_centered_exact_attached_nodes,500
+k = 250,454,0.005835462514530642,1.1182561894388037e-05,gsd_centered_exact_attached_nodes,500
+rigid,203,0.0162808713317088,2.8028077018844305e-05,gsd_centered_exact_attached_nodes,500
+rigid,252,0.016991454864614005,2.0586725315347275e-05,gsd_centered_exact_attached_nodes,500
+rigid,408,0.017658471269560962,2.1013460765594482e-05,gsd_centered_exact_attached_nodes,500
+rigid,454,0.0180747835852591,1.2717215876548193e-05,gsd_centered_exact_attached_nodes,500

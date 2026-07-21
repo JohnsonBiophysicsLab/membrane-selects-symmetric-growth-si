@@ -1,0 +1,9 @@
+ConditionKey,Condition,System,CanonicalFrames,NodeStatistic,SourceDirectory
+k250,k = 250,203,500,"z_mean, each membrane node averaged over trajectory second half",/Users/yueying/Workspace/SLIMED/analysis/hoomd_k250_geometry/remote_results
+k250,k = 250,252,500,"z_mean, each membrane node averaged over trajectory second half",/Users/yueying/Workspace/SLIMED/analysis/hoomd_k250_geometry/remote_results
+k250,k = 250,408,500,"z_mean, each membrane node averaged over trajectory second half",/Users/yueying/Workspace/SLIMED/analysis/hoomd_k250_geometry/remote_results
+k250,k = 250,454,500,"z_mean, each membrane node averaged over trajectory second half",/Users/yueying/Workspace/SLIMED/analysis/hoomd_k250_geometry/remote_results
+rigid,rigid,203,500,"z_mean, each membrane node averaged over trajectory second half",/Users/yueying/Workspace/SLIMED/analysis/hoomd_rigid_geometry/remote_results
+rigid,rigid,252,500,"z_mean, each membrane node averaged over trajectory second half",/Users/yueying/Workspace/SLIMED/analysis/hoomd_rigid_geometry/remote_results
+rigid,rigid,408,500,"z_mean, each membrane node averaged over trajectory second half",/Users/yueying/Workspace/SLIMED/analysis/hoomd_rigid_geometry/remote_results
+rigid,rigid,454,500,"z_mean, each membrane node averaged over trajectory second half",/Users/yueying/Workspace/SLIMED/analysis/hoomd_rigid_geometry/remote_results
