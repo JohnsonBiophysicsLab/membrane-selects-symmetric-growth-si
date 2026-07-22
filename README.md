@@ -14,6 +14,10 @@ Most scripts (`.ipynb`) are written in python3 and the python environment is des
 - Scipy 1.13.1
 - Seaborn 0.12.1
 
+Warning:
+
+The `.svg` files are generated using Inkscape 1.4.2 with SVG 2, as opposed to the widely accepted SVG 1.1. Some features may not display correctly if the `.svg` files are opened with a non-compatible viewer. 
+
 To set up the environment, use the provided `environment.yml` file:
 
 ```sh
@@ -51,7 +55,8 @@ NERDSS (Nonequilibrium Simulator for Multibody Self-Assembly at the Cellular Sca
 
 For more information, visit the official repository: [NERDSS GitHub Page](https://github.com/mjohn218/NERDSS)
 
-### Citation:
+
+## Citation:
 
 #### This work:
 
@@ -65,8 +70,8 @@ Ying, Y.M. & Johnson, M.E. Membrane bending energy selects for compact growth of
 
 **Stochastically assembled Gag lattice**: Qian, Y., Evans, D., Mishra, B., Fu, Y., Liu, Z.H., Guo, S., Johnson, M.E. Temporal control by cofactors prevents kinetic trapping in retroviral Gag lattice assembly. *Biophys. J.* 2023 Aug 8;122(15):3173-3190. doi: 10.1016/j.bpj.2023.06.021. Epub 2023 Jun 30. PMID: 37393432; PMCID: PMC10432227.
 
-## Continuum Membrane Model
-The continuum membrane model is currently available at the following repository:
-[Continuum Membrane Model GitHub](https://github.com/Yibenfu/continuum_membrane_model)
+## License:
 
-Further details on this model will be added as development progresses.
+This project, including its source code and original project assets, is licensed under the **GNU General Public License v3.0**. See the [`LICENSE`](LICENSE) file for the complete license terms.
+
+Unless otherwise noted, original SVG files and other graphical assets included in this repository are distributed under the same GNU GPL v3.0 license as the rest of the project. Some vector graphics in this project were created using [Inkscape](https://inkscape.org/). Inkscape is used solely as an authoring tool; its license does not impose additional licensing or attribution requirements on original artwork created with it.
