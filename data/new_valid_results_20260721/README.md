@@ -7,6 +7,10 @@ include a few extensive HOOMD-blue dependent Fourier-Space simulaitons (Ref:
 Samuel L. Foley & Margaret E. Johnson, Dynamical Simulation of Membrane Bending by
 Flexible Protein Assemblies, arxiv. https://arxiv.org/abs/2607.06378).
 
+**NOTE:** Because HOOMD-blue by default use kBT as energy unit (~4.17 pN\*nm), the
+`k250` folder contain simulation that sets the bond length, angles, and torsions
+rigidity to 250 kBT or kBT\*nm^-2, which is approximately 10^3 pN\*nm or pN/nm.
+
 Included:
 
 - `rigidity_energy_curvature/`: compact CSV summaries for the updated
