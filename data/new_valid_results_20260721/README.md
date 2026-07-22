@@ -1,8 +1,11 @@
 # New Valid Results, July 2026
 
 This folder contains only the newest valid result artifacts needed for the
-July 2026 supplemental figure updates. It intentionally does not mirror the
-full local/cluster result folders.
+figure and supplemental figure updates for July 2026 revision. It intentionally
+does not mirror the full local/cluster result folders, because this revision
+include a few extensive HOOMD-blue dependent Fourier-Space simulaitons (Ref:
+Samuel L. Foley & Margaret E. Johnson, Dynamical Simulation of Membrane Bending by
+Flexible Protein Assemblies, arxiv. https://arxiv.org/abs/2607.06378).
 
 Included:
 
@@ -23,8 +26,7 @@ Included:
 
 Excluded:
 
-- Full `cluster_results_20260602/fetched/` folders.
-- Full `~/Downloads/change_stiffness` folders.
+- Full `cluster_results_20260602/fetched/` folders that contains all the full trajectory data.
 - Raw HOOMD `.gsd` trajectories.
 - Failed, incomplete, superseded, or overwritten restart attempts.
 - Previous broad zip archives containing unrelated old and new results.
