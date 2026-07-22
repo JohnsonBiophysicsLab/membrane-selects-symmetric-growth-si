@@ -74,4 +74,4 @@ Ying, Y.M. & Johnson, M.E. Membrane bending energy selects for compact growth of
 
 This project, including its source code and original project assets, is licensed under the **GNU General Public License v3.0**. See the [`LICENSE`](LICENSE) file for the complete license terms.
 
-Unless otherwise noted, original SVG files and other graphical assets included in this repository are distributed under the same GNU GPL v3.0 license as the rest of the project. Some vector graphics in this project were created using [Inkscape](https://inkscape.org/). Inkscape is used solely as an authoring tool; its license does not impose additional licensing or attribution requirements on original artwork created with it.
+Some vector graphics in this project were created using [Inkscape](https://inkscape.org/). Inkscape is used solely as an authoring tool; its license does not impose additional licensing or attribution requirements on original artwork created with it.
